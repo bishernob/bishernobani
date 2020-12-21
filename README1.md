@@ -1,4 +1,4 @@
-##**Welcome To My Page**
+## **Welcome To My Page**
 
 
 ##### Summary about growth mindset
@@ -10,11 +10,10 @@
 
 written by:-
 
--bisher noabni
--bisher nobani
+- bisher noabni
+- bisher nobani
 
 
-+1
 
 ![Image of growth mindset](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)
 

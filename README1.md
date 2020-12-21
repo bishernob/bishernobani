@@ -1,23 +1,14 @@
-## **Welcome To My Page**
+# INTRODUCTION
 
+> my name is Bisher Nobani , i am from jordan , i am 24 years old 
 
-##### Summary about growth mindset
+* My GitHub : Bishernob
 
-> I am talking about growth mindset , it is talking about how to control yourself 
-> , or what should you do when you fail of something you doing hardwork for it
-> for my self, i explain that every fail i will face it , it is start for a new success,
-> so, you should handle it, and challenge yourself to start new beginning after fail.
+## Table of Contect:-
 
-written by:-
-
-- bisher noabni
-- bisher nobani
-
-
-
-![Image of growth mindset](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)
-
-
-
-*Createrd by bisher nobani*
-
+| Read NO.      | READ nAME               |   Read Repo     |
+| ------------- | -------------           | -------------   |
+| READ 1        | Learning Markdown       |  [Learning Markdown!](http://google.com)         |
+| RAED 2        | The Coder's Computer    |  Raed 2         |
+| RAED 3        | Revisions and the Cloud |  Raed 3         |
+| Extra         | Growth Mindset          |  Growth Mindset |

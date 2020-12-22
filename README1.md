@@ -8,7 +8,7 @@
 
 | Read NO.      | READ nAME               |   Read Repo     |
 | ------------- | -------------           | -------------   |
-| READ 1        | Learning Markdown       |  [Learning Markdown!](http://google.com)         |
-| RAED 2        | The Coder's Computer    |  Raed 2         |
-| RAED 3        | Revisions and the Cloud |  Raed 3         |
+| READ 1        | Learning Markdown       |  [Learning Markdown](https://bishernob.github.io/bishernobani/LearningMarkdown)         |
+| RAED 2        | The Coder's Computer    |  [The Coder's Computer]()         |
+| RAED 3        | Revisions and the Cloud |  [RevisionsandtheCloud] ()       |
 | Extra         | Growth Mindset          |  Growth Mindset |

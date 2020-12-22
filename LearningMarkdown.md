@@ -2,15 +2,15 @@
 
  
 
-# It’s all about to make texts in any web more efficient and control with text style .
+> It’s all about to make texts in any web more efficient and control with text style .
 
  
 
-# It include a few non-alphabetic characters like *,#
+* It include a few non-alphabetic characters like *,#
 
  
 
-# Markdown using regular text with these characters for example :-
+#### Markdown using regular text with these characters for example :-
 
  
 
@@ -18,12 +18,12 @@
 
  
 
-# Flavored Markdown
+**Flavored Markdown**
 
 # I think it is a way to writing coding more easier and simple and abbreviation some of syntax 
 
  
-# To take a simple Example about Markdown :-
+> To take a simple Example about Markdown 
 
  
 

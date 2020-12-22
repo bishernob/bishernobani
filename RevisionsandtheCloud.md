@@ -1,12 +1,12 @@
 # Version Control is a system to keep track the changes in any file and record it , 
 
 
- *and has many types , one of these types called Distributed Version Control* ,
+*and has many types , one of these types called Distributed Version Control* ,
  
- ### and this is what Git using , 
+### and this is what Git using , 
  
  
- > Git using DVCS to make snapshot in any changes and sent it to git this called commit 
+> Git using DVCS to make snapshot in any changes and sent it to git this called commit 
 
  
 
